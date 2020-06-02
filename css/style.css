@@ -91,11 +91,16 @@ body {
 
 /*----------------SECTION-2---------------------*/
 
+.main-section--2 {
+  background-color: hsl(218, 28%, 13%);
+}
+/*----------------SECTION-3---------------------*/
+
 .svg-curve {
   width: 100%;
 }
 
-.main-section--2 {
+.main-section--3 {
   /* background: url(/images/bg-curve-desktop.svg) no-repeat;
   background-size: contain; */
   background-color: hsl(218, 28%, 13%);
@@ -106,7 +111,7 @@ body {
   font-size: 29px;
 }
 
-.main-information__paragraph--2 {
+.main-information__paragraph--3 {
   margin-top: 27px;
   margin-bottom: 10px;
   font-size: 12px;
@@ -150,9 +155,9 @@ body {
   align-items: center;
 }
 
-/*----------------SECTION-3---------------------*/
+/*----------------SECTION-4---------------------*/
 
-.main-section--3 {
+.main-section--4 {
   background-color: hsl(238, 22%, 44%);
   height: 300px;
   display: flex;
@@ -164,11 +169,11 @@ body {
   color: white;
 }
 
-.main-form__label--3 {
+.main-form__label--4 {
   width: 80%;
 }
 
-.main-form__submit--3 {
+.main-form__submit--4 {
   width: 55%;
   margin-top: 10px;
   box-shadow: 0 0 0;
@@ -180,10 +185,11 @@ body {
   justify-content: center;
   align-items: center;
 }
-.main-information__paragraph--3 {
+.main-information__paragraph--4 {
   color: white;
   font-size: 17px;
 }
+
 /*----------------FOOTER---------------------*/
 
 .footer-section {
